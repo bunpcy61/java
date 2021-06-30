@@ -1,0 +1,4 @@
+						Hóa Đơn Xuất
+Mã HĐ		Tên KH		Sản Phẩm		Số Lượng		Giá Xuất	Thành Tiền	Ngày Xuất
+hdx1      		Hằng		Bánh mì		10		10000		100000		2021-05-25		
+hdx2      		Hằng		Mì tôm		5		10000		50000		2021-05-25		
